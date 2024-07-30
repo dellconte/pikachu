@@ -2,7 +2,7 @@
 <br>
  
 <p align="center">
-  <img alt="Pikachu" src="assets/Screenshot.png" width="80%">
+  <img alt="Pikachu" src="assets/Screenshot.png" width=" 100%">
 </p>
 
 ## Tecnologias
