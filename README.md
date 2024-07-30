@@ -2,7 +2,7 @@
 <br>
 
 <p align="center">
-  <img alt="Fashion Photography" src="[fashion_photo.png](https://github.com/dellconte/pikachu/blob/main/assets/Screenshot%202024-07-30%20at%2011-02-26%20Let's%20Go%20Pikachu!.png)" width="40%">
+  <img alt="Pikachu" src="[fashion_photo.png](https://github.com/dellconte/pikachu/assets/Screenshot.png)" width="40%">
 </p>
 
 ## Tecnologias
