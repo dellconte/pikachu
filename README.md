@@ -8,6 +8,6 @@
 ## Tecnologias
 - HTML
 - CSS
-- JavaScript
+
 
 <p align="center">by dellconte</p>
